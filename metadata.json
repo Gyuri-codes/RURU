@@ -1,0 +1,6 @@
+{
+  "name": "RURU — Interactive Night Journey",
+  "description": "An interactive cinematic scroll-driven Three.js night journey through a mysterious Japanese mountain temple.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
